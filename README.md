@@ -2,6 +2,9 @@
 
 ## Objective:
 
+This project aims to understand the concepts of building a chat server application with SignalR.
+In it we will develop a simple way of communicating in real time, using the latest tools available in the.NET environment
+
 ## Used Stacks:
 
 - C#
